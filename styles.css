@@ -1,3 +1,7 @@
 p {
     border: 20px solid darkkhaki;background-color: lightgray;
   }
+html, body {
+    cursor: url("assets/4.cur"), default;
+    /* just change the assets/***** path to your location */
+}
