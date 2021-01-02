@@ -10,4 +10,4 @@ Versions that are currently supported are:
 
 ## Reporting a Vulnerability
 
-Report a vulnerability at [@C3AGLE on Twitter](https://twitter.com/c3agle)
+Report a vulnerability at [@mmattbtw on Twitter](https://twitter.com/mmattbtw) and [@C3AGLE on Twitter](https://twitter.com/c3agle)
